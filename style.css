@@ -542,7 +542,7 @@ form{
 }
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 450px) {
     /*ACCEUIL BAR-MENU RESPONSIVE*/
     .container-nav, .cv-download{
         display: none;
